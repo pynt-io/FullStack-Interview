@@ -12,4 +12,3 @@ db.createCollection("threats_details");
 
 // Output success message
 print("Collections created successfully.");
-
