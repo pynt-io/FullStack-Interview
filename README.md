@@ -25,7 +25,8 @@ Pynt Senior Full Stack Developer evaluation task.
 
 ### Task Requirements:
 
-- TODO...
+- Build a dashboard with a list of all threats, with title, source, risk rating, name of affected system and date.
+- Build a sliding sidebar (Drawer) that opens when you click a specific threat with all it's info, a list of affected systems.
 
 ### Goal:
 
@@ -34,4 +35,4 @@ This task aims to evaluate the developer’s skills in creating a full-stack app
 ### Extras:
 
 - Implement Authentication
-- 
+- Add filteing
