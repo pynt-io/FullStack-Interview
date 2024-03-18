@@ -1,5 +1,6 @@
 import axios, { AxiosRequestConfig } from "axios";
-const BASE = process.env.REACT_APP_API_BASE_URL;
+const BASE = process.env.REACT_APP_API_BASE_URL_NODE;
+// const BASE = process.env.REACT_APP_API_BASE_URL_PYTHON;
 const instance = axios.create({
   baseURL: BASE,
   headers: {
