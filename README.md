@@ -27,12 +27,15 @@ Pynt Senior Full Stack Developer evaluation task.
 
 - Build a dashboard with a list of all threats, with title, source, risk rating, name of affected system and date.
 - Build a sliding sidebar (Drawer) that opens when you click a specific threat with all it's info, a list of affected systems.
+- Select one of the following:
+  * Simple Authentication
+  * Pagination on the threats
+  * Search on threads
+
 
 ### Goal:
 
 This task aims to evaluate the developer’s skills in creating a full-stack application with React and Material-UI for the frontend, Node.js and Express for the backend, and MongoDB for data storage. The developer should demonstrate knowledge in React, backend server, database interactions, and the ability to perform database operations. The task should be completed in an hour and a half, focusing on the core functionalities to showcase end-to-end implementation skills.
 
 ### Extras:
-
-- Implement Authentication
 - Add filteing
